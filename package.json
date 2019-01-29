@@ -20,7 +20,11 @@
   },
   "homepage": "https://github.com/cmlugoce/npm-lab-v-000#readme",
   "dependencies": {
+<<<<<<< HEAD
     "learn-browser": "^0.1.17",
     "moment": "^2.22.2"
+=======
+    "learn-browser": "^0.1.17"
+>>>>>>> 0b682f8b1aee5526eaf007fabf33a2fd8507f69d
   }
 }
