@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -18,13 +18,5 @@
   "bugs": {
     "url": "https://github.com/cmlugoce/npm-lab-v-000/issues"
   },
-  "homepage": "https://github.com/cmlugoce/npm-lab-v-000#readme",
-  "dependencies": {
-<<<<<<< HEAD
-    "learn-browser": "^0.1.17",
-    "moment": "^2.22.2"
-=======
-    "learn-browser": "^0.1.17"
->>>>>>> 0b682f8b1aee5526eaf007fabf33a2fd8507f69d
-  }
+  "homepage": "https://github.com/cmlugoce/npm-lab-v-000#readme"
 }
